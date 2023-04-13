@@ -38,3 +38,4 @@ cv2.imshow('facemedio', img_n)
 cv2.waitKey(0)
 print(img_n.shape)
 print(type(img_n))
+# Imprimo la imagen
