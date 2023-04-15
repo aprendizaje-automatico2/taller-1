@@ -48,5 +48,3 @@ distance = cv2.compareHist(hist1, hist2, cv2.HISTCMP_BHATTACHARYYA)
 
 # Mostrar la distancia
 print('La distancia de Bhattacharyya entre los histogramas es: ', distance)
-
-
